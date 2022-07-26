@@ -1239,7 +1239,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #e0de6b;
+  background: #95cd1b;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2676,4 +2676,20 @@ pre {
 code,
 pre {
   border: 1px solid #d6d6d6;
+}
+.back-to-top {
+  right: 60px;
+  width: 70px;
+  height: 900px;
+  top: -900px;
+  bottom: unset;
+  transition: all 0.5s ease-in-out;
+  background: url("https://cdn.jsdelivr.net/gh/fatalismile/picture/images/scroll.png");
+}
+.back-to-top > i {
+  display: none;
+}
+.back-to-top.back-to-top-on {
+  bottom: unset;
+  top: calc(100vh - 900px - 200px);
 }

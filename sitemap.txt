@@ -1,10 +1,13 @@
+https://fatalismile.github.io/2022/07/26/hexo/
+https://fatalismile.github.io/2022/07/27/hexo%E6%90%AD%E5%BB%BAblog/
+https://fatalismile.github.io/2022/07/27/yarn-%E4%B8%8B%E8%BD%BD%E4%B8%8E%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/
 https://fatalismile.github.io/2022/07/26/%E7%BE%8E%E5%8C%96/
 https://fatalismile.github.io/2022/07/26/hello-world/
-https://fatalismile.github.io/2022/07/26/hexo/
 https://fatalismile.github.io/tags/index.html
-https://fatalismile.github.io/schedule/index.html
 https://fatalismile.github.io/resources/index.html
+https://fatalismile.github.io/schedule/index.html
 https://fatalismile.github.io/categories/index.html
 https://fatalismile.github.io/about/index.html
 https://fatalismile.github.io/
 https://fatalismile.github.io/tags/hexo/
+https://fatalismile.github.io/categories/study/

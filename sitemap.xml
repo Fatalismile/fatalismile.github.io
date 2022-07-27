@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://fatalismile.github.io/2022/07/26/%E7%BE%8E%E5%8C%96/</loc>
+    
+    <lastmod>2022-07-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://fatalismile.github.io/2022/07/26/hexo/</loc>
     
     <lastmod>2022-07-27</lastmod>
@@ -21,15 +30,6 @@
   
   <url>
     <loc>https://fatalismile.github.io/2022/07/27/yarn-%E4%B8%8B%E8%BD%BD%E4%B8%8E%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</loc>
-    
-    <lastmod>2022-07-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://fatalismile.github.io/2022/07/26/%E7%BE%8E%E5%8C%96/</loc>
     
     <lastmod>2022-07-27</lastmod>
     

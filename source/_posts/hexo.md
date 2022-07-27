@@ -2,6 +2,8 @@
 title: hexo 上传源码到github分支
 date: 2022-07-26 15:34:48
 tags: hexo
+categories: study
+top: true
 ---
 
 ### 创建source新分支
@@ -48,7 +50,7 @@ git push origin source
 git clone https://github.com/yourname/repository
 cd my_blog
 # 安装node.js
-npm install hexo
+npm install hexo  #yarn add hexo
 npm install
 npm install hexo-deployer-git -save
 

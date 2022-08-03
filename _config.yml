@@ -103,7 +103,7 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://github.com/Fatalismile/fatalismile.github.io.git
+  repository: git@github.com:Fatalismile/fatalismile.github.io.git
   branch: main
 
 
@@ -174,3 +174,7 @@ aplayer:
   asset_inject: false                            # 自动插入 Aplayer.js 与 Meting.js 资源脚本, 默认开启
   #externalLink: http://xxx/aplayer.min.js       # 老版本参数，功能与参数 cdn 相同meting: true
 
+sitemap:
+    path: sitemap.xml
+    tag: false
+    category: false

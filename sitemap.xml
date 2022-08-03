@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://fatalismile.github.io/img/pwa/manifest.json</loc>
+    <loc>https://fatalismile.tk/Gallery/index.html</loc>
     
     <lastmod>2022-08-03</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://fatalismile.github.io/2022/07/27/hexo%E6%90%AD%E5%BB%BAblog/</loc>
+    <loc>https://fatalismile.tk/music/index.html</loc>
     
     <lastmod>2022-08-03</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://fatalismile.github.io/link/index.html</loc>
+    <loc>https://fatalismile.tk/link/index.html</loc>
     
     <lastmod>2022-08-03</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://fatalismile.github.io/tags/index.html</loc>
+    <loc>https://fatalismile.tk/messageboard/index.html</loc>
     
     <lastmod>2022-08-03</lastmod>
     
@@ -38,7 +38,34 @@
   </url>
   
   <url>
-    <loc>https://fatalismile.github.io/2022/07/26/%E7%BE%8E%E5%8C%96/</loc>
+    <loc>https://fatalismile.tk/img/pwa/manifest.json</loc>
+    
+    <lastmod>2022-08-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fatalismile.tk/posts/88e1b3b89d00/</loc>
+    
+    <lastmod>2022-08-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fatalismile.tk/tags/index.html</loc>
+    
+    <lastmod>2022-08-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fatalismile.tk/posts/5cbbbf6c751b/</loc>
     
     <lastmod>2022-07-27</lastmod>
     
@@ -47,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://fatalismile.github.io/2022/07/26/hexo/</loc>
+    <loc>https://fatalismile.tk/posts/b521c0aad011/</loc>
     
     <lastmod>2022-07-27</lastmod>
     
@@ -56,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://fatalismile.github.io/2022/07/27/yarn-%E4%B8%8B%E8%BD%BD%E4%B8%8E%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</loc>
+    <loc>https://fatalismile.tk/posts/1e963ed13b9a/</loc>
     
     <lastmod>2022-07-27</lastmod>
     
@@ -65,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://fatalismile.github.io/2022/07/26/hello-world/</loc>
+    <loc>https://fatalismile.tk/posts/78cfb279e063/</loc>
     
     <lastmod>2022-07-26</lastmod>
     
@@ -74,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://fatalismile.github.io/resources/index.html</loc>
+    <loc>https://fatalismile.tk/resources/index.html</loc>
     
     <lastmod>2022-07-26</lastmod>
     
@@ -83,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://fatalismile.github.io/schedule/index.html</loc>
+    <loc>https://fatalismile.tk/schedule/index.html</loc>
     
     <lastmod>2022-07-26</lastmod>
     
@@ -92,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://fatalismile.github.io/categories/index.html</loc>
+    <loc>https://fatalismile.tk/categories/index.html</loc>
     
     <lastmod>2022-07-26</lastmod>
     
@@ -101,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://fatalismile.github.io/about/index.html</loc>
+    <loc>https://fatalismile.tk/about/index.html</loc>
     
     <lastmod>2022-07-26</lastmod>
     
@@ -111,7 +138,7 @@
   
 
   <url>
-    <loc>https://fatalismile.github.io/</loc>
+    <loc>https://fatalismile.tk/</loc>
     <lastmod>2022-08-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -119,7 +146,7 @@
 
   
   <url>
-    <loc>https://fatalismile.github.io/tags/hexo/</loc>
+    <loc>https://fatalismile.tk/tags/hexo/</loc>
     <lastmod>2022-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -128,7 +155,7 @@
 
   
   <url>
-    <loc>https://fatalismile.github.io/categories/study/</loc>
+    <loc>https://fatalismile.tk/categories/study/</loc>
     <lastmod>2022-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://fatalismile.github.io/link/index.html</loc>
+    
+    <lastmod>2022-08-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fatalismile.github.io/tags/index.html</loc>
+    
+    <lastmod>2022-08-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://fatalismile.github.io/2022/07/26/%E7%BE%8E%E5%8C%96/</loc>
     
     <lastmod>2022-07-27</lastmod>
@@ -39,15 +57,6 @@
   
   <url>
     <loc>https://fatalismile.github.io/2022/07/26/hello-world/</loc>
-    
-    <lastmod>2022-07-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://fatalismile.github.io/tags/index.html</loc>
     
     <lastmod>2022-07-26</lastmod>
     
@@ -94,7 +103,7 @@
 
   <url>
     <loc>https://fatalismile.github.io/</loc>
-    <lastmod>2022-07-27</lastmod>
+    <lastmod>2022-08-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -102,7 +111,7 @@
   
   <url>
     <loc>https://fatalismile.github.io/tags/hexo/</loc>
-    <lastmod>2022-07-27</lastmod>
+    <lastmod>2022-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -111,7 +120,7 @@
   
   <url>
     <loc>https://fatalismile.github.io/categories/study/</loc>
-    <lastmod>2022-07-27</lastmod>
+    <lastmod>2022-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

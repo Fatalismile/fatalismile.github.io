@@ -3,6 +3,24 @@ title: hexo搭建blog
 date: 2022-07-27 20:02:17
 tags: hexo
 categories: study
+keywords:
+description:
+top_img:
+comments:
+cover:
+toc:
+toc_number:
+toc_style_simple:
+copyright:
+copyright_author:
+copyright_author_href:
+copyright_url:
+copyright_info:
+mathjax:
+katex:
+aplayer:
+highlight_shrink:
+aside:
 ---
 ## github新建仓库
 仓库名为yourname.github.io

@@ -928,3 +928,24 @@ CDN:
     # prismjs_lineNumber_js:
     # prismjs_autoloader:
 
+
+#首页分类磁贴
+categoryBar:
+  enable: true
+  column: odd # 显示列数,odd：3列 | even：4列
+  row: 2 #显示行数，默认两行，超过行数切换为滚动显示
+  descr:
+    - Good things to share
+    - Back end talk
+    - personal diary
+    - Front end serialization
+    - Butterfly theme
+    - Other items
+  cover:
+    - url('https://cdn.jsdelivr.net/gh/fatalismile/picture/ACG/2.webp')
+    - '#abcdef' # HEX格式色值需要用''包裹，不然会被识别成注释
+    - rgba(45,67,89,0.7)
+    - linear-gradient(rgba(0, 0, 0, 0.4) 25%, rgba(200,16 , 16, 0) 100%)
+    - url('https://fastly.jsdelivr.net/npm/akilar-candyassets/image/cover5.webp')
+    - url('https://fastly.jsdelivr.net/npm/akilar-candyassets/image/cover6.webp')
+
